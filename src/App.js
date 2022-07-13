@@ -34,7 +34,7 @@ function App() {
                             proper techniques for showcasing your 
                             potential to the employer. But with 
                             the advent of COVID-19, it has become 
-                            a bit challenging and competitive to 
+                            a bit challenging and competitidfve to 
                             reach out for your dream job. Many 
                             individuals have lost their jobs 
                             during these times, and on the other 
