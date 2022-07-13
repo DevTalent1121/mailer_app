@@ -30,7 +30,7 @@ function App() {
                             Job Search in 2022
                         </h1>
                         <p class="text-small">
-                            Hunting down a relevant job requires 
+                            Hunting down a relevant jooob requires 
                             proper techniques for showcasing your 
                             potential to the employer. But with 
                             the advent of COVID-19, it has become 
